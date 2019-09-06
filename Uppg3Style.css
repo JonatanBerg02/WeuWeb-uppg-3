@@ -1,0 +1,35 @@
+table{
+    width:45%;
+    border-width:4px;
+    text-align:center;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px
+}
+    th{ 
+        background-color: #BBBBBB ;
+}
+.witdth{
+    width:25%;
+}
+.BGcolor1{
+    background-color: #EEAC30;
+}
+.BGcolor2{
+    background-color: #CB0D0D;
+    color:#FFFFFF;
+}
+.TAR{
+    text-align:right;
+}
+.TAL{
+    text-align:left;
+}
+caption{
+    caption-side:bottom;
+    font-size:30px;
+    padding:8px;
+    font-family:arial;
+}
